@@ -1,4 +1,7 @@
 // add Initials code here
+size(500,500);
+background(160,160,160);
+
 //I
 noStroke();
 fill(0,0,255);
